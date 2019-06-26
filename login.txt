@@ -1,0 +1,5 @@
+postgres
+postgres
+5432
+testdb
+localhost
